@@ -1,0 +1,7 @@
+{
+  "configs": [
+    { "name": "Test VPN", "file": "test.conf" },
+    { "name": "Singapore", "file": "sg.conf" },
+    { "name": "USA", "file": "us.conf" }
+  ]
+}
