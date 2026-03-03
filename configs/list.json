@@ -1,1 +1,5 @@
-
+{
+  "configs": [
+    { "name": "Test", "file": "test.conf" }
+  ]
+}
