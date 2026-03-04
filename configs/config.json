@@ -1,12 +1,12 @@
 [
   { 
-    "name": "Thailand Server", 
-    "file": "th.conf", 
-    "country": "th" 
+    "name": "India Premium CHIW", 
+    "file": "chiw.conf", 
+    "country": "in" 
   },
   { 
-    "name": "USA Premium", 
-    "file": "us.conf", 
+    "name": "India", 
+    "file": "chiw.conf", 
     "country": "in" 
   }
 ]
