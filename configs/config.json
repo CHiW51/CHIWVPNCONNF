@@ -10,5 +10,9 @@
   {
     "name": "USA Server",
     "file": "test.conf"
+  },
+  {
+    "name": "USA Server555",
+    "file": "test.conf"
   }
 ]
