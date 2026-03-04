@@ -1,5 +1,18 @@
-    [
-      { "name": "Thailand Server", "file": "test.conf" },
-      { "name": "Thailand ", "file": "testd.conf" }
-    ]
-    
+[
+  {
+    "name": "Thailand Server 1",
+    "file": "th1.conf"
+  },
+  {
+    "name": "Thailand Server 2",
+    "file": "th2.conf"
+  },
+  {
+    "name": "Singapore Server",
+    "file": "sg.conf"
+  },
+  {
+    "name": "USA Server",
+    "file": "us.conf"
+  }
+]
