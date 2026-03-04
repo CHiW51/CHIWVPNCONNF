@@ -5,14 +5,14 @@
   },
   {
     "name": "Thailand Server 2",
-    "file": "th2.conf"
+    "file": "test.conf"
   },
   {
     "name": "Singapore Server",
-    "file": "sg.conf"
+    "file": "test.conf"
   },
   {
     "name": "USA Server",
-    "file": "us.conf"
+    "file": "test.conf"
   }
 ]
