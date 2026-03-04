@@ -1,6 +1,4 @@
-{
-  "configs": [
-    { "name": "Test", "file": "test.conf" },
-    { "name": "Test1", "file": "test.conf" }
-  ]
-}
+    [
+      { "name": "Thailand Server", "file": "test.conf" }
+    ]
+    
