@@ -1,26 +1,12 @@
 [
-  {
-    "name": "Thailand Server 1",
-    "file": "test2.conf"
+  { 
+    "name": "Thailand Server", 
+    "file": "th.conf", 
+    "country": "th" 
   },
-  {
-    "name": "Thailand HERE",
-    "file": "testj2.conf"
-  },
-    {
-    "name": "Thailand HEREEEEE",
-    "file": "testj2.conf"
-  },
-  {
-    "name": "Singapore Server",
-    "file": "test.conf"
-  },
-  {
-    "name": "USA Server",
-    "file": "test.conf"
-  },
-  {
-    "name": "USA Server555",
-    "file": "test.conf"
+  { 
+    "name": "USA Premium", 
+    "file": "us.conf", 
+    "country": "us" 
   }
 ]
